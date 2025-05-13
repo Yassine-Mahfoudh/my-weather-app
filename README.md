@@ -32,7 +32,7 @@ Application météo développée avec **Next.js**, **React** et **Tailwind CSS**
 ##  Installation locale
 
 ```bash
-git clone https://github.com/ton-utilisateur/my-weather-app.git
+git clone https://github.com/Yassine-Mahfoudh/my-weather-app.git
 cd my-weather-app
 npm install
 npm run dev
