@@ -1,6 +1,6 @@
 #  Météo en Temps Réel – Application Web
 
-Application météo développée avec **Next.js** et **Tailwind CSS**, permettant de consulter les conditions météo actuelles pour différentes villes du monde en temps réel.
+Application météo développée avec **Next.js** ,**React** et **Tailwind CSS**, permettant de consulter les conditions météo actuelles pour différentes villes du monde en temps réel.
 
 ---
 
